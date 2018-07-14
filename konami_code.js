@@ -1,5 +1,5 @@
 function init() {
-// add event listener 
+// add event listener
   let closedEventFunction = setKonamiEasterEgg();
 
   document.body.addEventListener('keydown', closedEventFunction);
